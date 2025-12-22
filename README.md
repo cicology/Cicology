@@ -4,7 +4,7 @@
 Thank you for visiting my little corner of the internet. This is my workbench where I create magic and share with the world.
 
 Brief Introduction
-I am a Logistics Graduate, with experience within Supply Chain Management in the Distribution, Warehousing, Transportation as well as e-Commerce. I am currently enrolled in a Master's in Science with the WorldQuant University where I use the skills and knowledge across other aspects of my professional endavours. I take on the world through childlike lens and would love to learn more and work on a couple of tech related projects.
+I am a developer and an (un)professional penetration tester, with an interest in inforce. I take on the world through childlike lens and would love to learn more and work on a couple of tech related projects. There is nothing much for the public, but hopefully that will change soon.
 
 - 🔭 I'm currently learning cybersecurity, Linux, Python, Automation, Data Science, Machine Learning and other miscellaneous topics.
 
