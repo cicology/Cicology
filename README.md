@@ -1,4 +1,4 @@
-## Hi there, I am Heri👋
+## Hi there, I am Rusumba
 <a href="https://linkedin.com/in/heri-bukanga"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Thank you for visiting my little corner of the internet. This is my workbench where I create magic and share with the world.
