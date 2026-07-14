@@ -1,48 +1,62 @@
-## Hi there, I am Rusumba
-<a href="https://linkedin.com/in/heri-bukanga"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<div align="center">
 
-Thank you for visiting my little corner of the internet. This is my workbench where I create magic and share with the world.
+# Rusumba Bukanga
 
-Brief Introduction
-I am a developer and an (un)professional penetration tester, with an interest in inforce. I take on the world through childlike lens and would love to learn more and work on a couple of tech related projects. There is nothing much for the public, but hopefully that will change soon.
+**Full Stack Developer · AI Engineer · Cofounder & CTO**
 
-- 🔭 I'm currently learning cybersecurity, Linux, Python, Automation, Data Science, Machine Learning and other miscellaneous topics.
+Johannesburg, South Africa
 
-- 🌱 I have created a portfolio for each project I am working on.
+[![Portfolio](https://img.shields.io/badge/Portfolio-rusumbabukanga.com-F2A93B?style=flat-square)](https://www.rusumbabukanga.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rusumba-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rusumba/)
+[![Email](https://img.shields.io/badge/Email-herij46%40gmail.com-5B8DEF?style=flat-square)](mailto:herij46@gmail.com)
 
-- 📫 Find me here, and a new website is in the works. Stay Tuned <3
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
-## Tools
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+---
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+I build the systems companies trust with money, students, and members — across InsurTech, EdTech, and AI, in Johannesburg.
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+Right now I run engineering across three ventures at once:
+
+- **[Cleverly AI](https://cleverly.co.za)** — Cofounder & CTO. AI-assisted grading platform for South African schools, colleges, and universities. LLM provider layer, prompt engineering, RAG, tiered OCR.
+- **[123tutors](https://123tutors.co.za)** — CTO. Led a full platform migration (Bubble → Next.js/TypeScript) and shipped an AI Tutor feature powered by Claude via AWS Bedrock.
+- **uTap** — Cofounder. University campus commerce and access platform — React Native/Expo app, NFC card emulation, Paystack payments.
+
+Plus full stack work across **Alpha Group** (insurance, hospitality, fitness), working closely with the Alpha engineering team on a centralized SSO authentication gateway, claims forms modernization, broker onboarding, and billing automation — and client work, including a full cinematic website build for **[Friends of Cinema](https://github.com/cicology/friends-of-cinema)**, an independent film production company.
+
+## What I work with
+
+```
+Frontend     Next.js · React · TypeScript · Tailwind · Framer Motion
+Backend      Node.js · Express · FastAPI
+AI / ML      Claude · AWS Bedrock · RAG · Prompt Engineering · OCR pipelines
+AWS          Lambda · EventBridge · Cognito · DynamoDB · S3 · KMS · SES/SNS
+Databases    PostgreSQL · Supabase · MongoDB · DynamoDB
+Auth         OAuth2/PKCE · SSO gateway design · JWT
+Security     Kali Linux · Nmap · Metasploit · Burp Suite
+DevOps       Docker · Kubernetes · CI/CD · Vercel · Render
+```
+
+## A few things I've worked on
+
+- 🎓 **AI grading engine** — evidence-linked, rubric-aligned marking with teacher-in-the-loop review, built to be trusted by teachers, not just accurate on paper
+- 🔐 **Centralized SSO gateway** — architected and collaborated with the Alpha engineering team on the single login serving every app across an insurance, hospitality, and fitness ecosystem
+- 🤖 **AI Tutor** — real-time streaming chat with intent classification and generated interactive mindmaps
+- 📄 **Legacy forms modernization** — architected an in-browser system replacing hundreds of Adobe-only PDF forms with browser-native, mobile-accessible web forms and e-signature support
+- 💳 **Campus tap-to-pay** — turned a student ID into an NFC payment card
+- 🎬 **Cinematic client site** — art-house film studio website with a custom cursor, film grain hero, and Framer Motion transitions, live in production
+- 📊 **Akur8 UAT Runner** — built a full-stack bulk-testing tool validating Alpha Insure's actuarial rating API before every pricing deploy
+
+More detail (real problem → build → outcome case studies) on **[my portfolio](https://www.rusumbabukanga.com)**.
+
+## Currently
+
+🔭 Building AI-native products and identity infrastructure
+🌱 Exploring applied security alongside development — Kali Linux practice lab, production security audits
+📫 Reach me at **herij46@gmail.com** or **[LinkedIn](https://www.linkedin.com/in/rusumba/)**
+
+---
+
+<div align="center">
+<sub>English · French</sub>
+</div>
